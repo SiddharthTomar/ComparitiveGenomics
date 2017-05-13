@@ -12,5 +12,5 @@ for i in filename:
 		for alig in b_record.alignments:
 			for hsp in alig.hsps:
 				print ("15"+"\t"+alig.hit_def+"\t"+i+"\t"+b_record.query+"\n")
-				outfile.write ("15"+"\t"+alig.title+"\t"+i+"\t"+b_record.query+"\n")
+				outfile.write ("15"+"\t"+alig.hit_def+"\t"+i+"\t"+b_record.query+"\n")
 	outfile.close()
