@@ -1,16 +1,16 @@
-from Bio.Blast import NCBIXML
-result=open("19.xml","r")
-records= NCBIXML.parse(result)
-item=next(records)
-for alignment in item.alignments:
-          for hsp in alignment.hsps:
-                 if hsp.expect <0.1:
-                         print('****Alignment****')
-                         print('sequence:', alignment.title) 
-                         print('length:', alignment.length)
-                         print('score:', hsp.score)
-                         print('gaps:', hsp.gaps)
-                         print('e value:', hsp.expect)
-                         print(hsp.query[0:90] + '...')
-                         print(hsp.match[0:90] + '...')
-                         print(hsp.sbjct[0:90] + '...')
+from Bio.Blast import NCBIXML	
+
+#Define file names which are to be parsed
+filename = ["05.xml","11.xml","19.xml"]
+
+#Driving loop
+for i in filename:
+	bout = open(i)
+	b_records = NCBIXML.parse(bout) #Main parsing function	
+	outfile = open("record_%s.record" % i,'w') #Each parsed sequence is stored in a new file
+	for b_record in b_records:
+		for alig in b_record.alignments:
+			for hsp in alig.hsps:
+				print ("15"+"\t"+alig.hit_def+"\t"+i+"\t"+b_record.query+"\n")
+				outfile.write ("15"+"\t"+alig.title+"\t"+i+"\t"+b_record.query+"\n")
+	outfile.close()
