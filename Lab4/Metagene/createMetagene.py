@@ -26,5 +26,5 @@ for i in range (0,maxFile):
 	meta3_id = meta3_id+"|"+records[2].id
 	meta3 = meta3+str(records[2].seq)
 
-outfile.write (">"+meta1_id+"\n"+meta1+"\n"+">"+meta2_id+"\n"+meta2+"\n"+">"+meta3_id+"\n"+meta3)
+outfile.write (">"+meta1_id+"\n"+meta1+"\n"+">"+meta2_id+"\n"+meta2+"\n"+">"+meta3_id+"\n"+meta3+"\n")
 outfile.close()	
