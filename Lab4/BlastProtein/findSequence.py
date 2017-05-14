@@ -17,11 +17,11 @@ for i, row in df.iterrows():
 	for record in fasta05:
 		if (protein05 == record.id):
 			print("i"+"\n")
-			outfile.write (record.id+"\n"+str(record.seq)+"\n")
+			outfile.write (">"+record.id+"\n"+str(record.seq)+"\n")
 	for record in fasta11:
 		if (protein11 == record.id):
-			outfile.write (record.id+"\n"+str(record.seq)+"\n")	
+			outfile.write (">"+record.id+"\n"+str(record.seq)+"\n")	
 	for record in fasta19:
 		if (protein19 == record.id):
-			outfile.write (record.id+"\n"+str(record.seq)+"\n")
+			outfile.write (">"+record.id+"\n"+str(record.seq)+"\n")
 	outfile.close()
