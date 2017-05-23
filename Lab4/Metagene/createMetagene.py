@@ -14,6 +14,8 @@ meta2 = ""
 meta2_id = ""
 meta3 = ""
 meta3_id = ""
+meta4 = ""
+meta4_id = ""
 #File output pointer
 outfile = open("meta.fa",'w')
 #File input/concatination operations
@@ -25,6 +27,8 @@ for i in range (0,maxFile):
 	meta2 = meta2+str(records[1].seq)
 	meta3_id = meta3_id+"|"+records[2].id
 	meta3 = meta3+str(records[2].seq)
+	meta4_id = meta4_id+"|"+records[3].id
+	meta4 = meta4+str(records[3].seq)
 
-outfile.write (">"+meta1_id+"\n"+meta1+"\n"+">"+meta2_id+"\n"+meta2+"\n"+">"+meta3_id+"\n"+meta3+"\n")
+outfile.write (">"+meta1_id+"\n"+meta1+"\n"+">"+meta2_id+"\n"+meta2+"\n"+">"+meta3_id+"\n"+meta3+"\n"+meta4_id+"\n"+meta4+"\n")
 outfile.close()	
