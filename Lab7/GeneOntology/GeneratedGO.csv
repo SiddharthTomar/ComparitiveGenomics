@@ -1,0 +1,437 @@
+Pfam,Misc,GO,Predicted_gene
+PF00004,AAA,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_7|1396_aa
+PF00005,ABC_tran,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_221|1599_aa
+PF00005,ABC_tran,GO:ATPase activity ; GO:0016887,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_221|1599_aa
+PF00009,GTP_EFTU,GO:GTPase activity ; GO:0003924,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_120|1110_aa
+PF00009,GTP_EFTU,GO:GTP binding ; GO:0005525,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_120|1110_aa
+PF00025,Arf,GO:GTP binding ; GO:0005525,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_25|417_aa
+PF00042,Globin,GO:oxygen binding ; GO:0019825,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_73|2557_aa
+PF00042,Globin,GO:heme binding ; GO:0020037,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_73|2557_aa
+PF00069,Pkinase,GO:protein kinase activity ; GO:0004672,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_23|375_aa
+PF00069,Pkinase,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_23|375_aa
+PF00069,Pkinase,GO:protein phosphorylation ; GO:0006468,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_23|375_aa
+PF00070,Pyr_redox,GO:oxidoreductase activity ; GO:0016491,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_286|378_aa
+PF00070,Pyr_redox,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_286|378_aa
+PF00071,Ras,GO:GTPase activity ; GO:0003924,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_25|417_aa
+PF00071,Ras,GO:GTP binding ; GO:0005525,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_25|417_aa
+PF00076,RRM_1,GO:nucleic acid binding ; GO:0003676,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_62|575_aa
+PF00082,Peptidase_S8,GO:serine-type endopeptidase activity ; GO:0004252,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_72|1210_aa
+PF00082,Peptidase_S8,GO:proteolysis ; GO:0006508,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_72|1210_aa
+PF00083,Sugar_tr,GO:transmembrane transporter activity ; GO:0022857,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_184|586_aa
+PF00083,Sugar_tr,GO:transmembrane transport ; GO:0055085,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_184|586_aa
+PF00083,Sugar_tr,GO:integral component of membrane ; GO:0016021,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_184|586_aa
+PF00107,ADH_zinc_N,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_137|376_aa
+PF00136,DNA_pol_B,GO:nucleotide binding ; GO:0000166,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_53|2221_aa
+PF00136,DNA_pol_B,GO:DNA binding ; GO:0003677,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_53|2221_aa
+PF00149,Metallophos,GO:hydrolase activity ; GO:0016787,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_85|326_aa
+PF00152,tRNA-synt_2,GO:nucleotide binding ; GO:0000166,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_180|1311_aa
+PF00152,tRNA-synt_2,GO:aminoacyl-tRNA ligase activity ; GO:0004812,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_180|1311_aa
+PF00152,tRNA-synt_2,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_180|1311_aa
+PF00152,tRNA-synt_2,GO:tRNA aminoacylation for protein translation ; GO:0006418,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_180|1311_aa
+PF00160,Pro_isomerase,GO:peptidyl-prolyl cis-trans isomerase activity ; GO:0003755,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_251|296_aa
+PF00160,Pro_isomerase,GO:protein peptidyl-prolyl isomerization ; GO:0000413,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_251|296_aa
+PF00160,Pro_isomerase,GO:protein folding ; GO:0006457,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_251|296_aa
+PF00164,Ribosom_S12_S23,GO:structural constituent of ribosome ; GO:0003735,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_258|127_aa
+PF00164,Ribosom_S12_S23,GO:translation ; GO:0006412,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_258|127_aa
+PF00164,Ribosom_S12_S23,GO:intracellular ; GO:0005622,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_258|127_aa
+PF00164,Ribosom_S12_S23,GO:ribosome ; GO:0005840,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_258|127_aa
+PF00170,bZIP_1,"GO:transcription factor activity, sequence-specific DNA binding ; GO:0003700",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_116|836_aa
+PF00170,bZIP_1,"GO:regulation of transcription, DNA-templated ; GO:0006355",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_116|836_aa
+PF00172,Zn_clus,"GO:RNA polymerase II transcription factor activity, sequence-specific DNA binding ; GO:0000981",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_279|607_aa
+PF00172,Zn_clus,GO:zinc ion binding ; GO:0008270,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_279|607_aa
+PF00172,Zn_clus,"GO:regulation of transcription, DNA-templated ; GO:0006355",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_279|607_aa
+PF00172,Zn_clus,GO:nucleus ; GO:0005634,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_279|607_aa
+PF00180,Iso_dh,"GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_203|360_aa
+PF00180,Iso_dh,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_203|360_aa
+PF00189,Ribosomal_S3_C,GO:structural constituent of ribosome ; GO:0003735,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_109|240_aa
+PF00189,Ribosomal_S3_C,GO:translation ; GO:0006412,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_109|240_aa
+PF00189,Ribosomal_S3_C,GO:ribosome ; GO:0005840,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_109|240_aa
+PF00198,2-oxoacid_dh,"GO:transferase activity, transferring acyl groups ; GO:0016746",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_180|1311_aa
+PF00198,2-oxoacid_dh,GO:metabolic process ; GO:0008152,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_180|1311_aa
+PF00202,Aminotran_3,GO:transaminase activity ; GO:0008483,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_275|480_aa
+PF00202,Aminotran_3,GO:pyridoxal phosphate binding ; GO:0030170,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_275|480_aa
+PF00204,DNA_gyraseB,GO:DNA binding ; GO:0003677,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_168|1428_aa
+PF00204,DNA_gyraseB,GO:DNA topoisomerase type II (ATP-hydrolyzing) activity ; GO:0003918,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_168|1428_aa
+PF00204,DNA_gyraseB,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_168|1428_aa
+PF00204,DNA_gyraseB,GO:DNA topological change ; GO:0006265,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_168|1428_aa
+PF00237,Ribosomal_L22,GO:structural constituent of ribosome ; GO:0003735,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_110|309_aa
+PF00237,Ribosomal_L22,GO:translation ; GO:0006412,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_110|309_aa
+PF00237,Ribosomal_L22,GO:ribosome ; GO:0005840,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_110|309_aa
+PF00250,Forkhead,"GO:transcription factor activity, sequence-specific DNA binding ; GO:0003700",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_181|1042_aa
+PF00250,Forkhead,GO:sequence-specific DNA binding ; GO:0043565,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_181|1042_aa
+PF00250,Forkhead,"GO:regulation of transcription, DNA-templated ; GO:0006355",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_181|1042_aa
+PF00270,DEAD,GO:nucleic acid binding ; GO:0003676,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_1|1862_aa
+PF00270,DEAD,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_1|1862_aa
+PF00285,Citrate_synt,"GO:transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer ; GO:0046912",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_232|479_aa
+PF00288,GHMP_kinases_N,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_263|396_aa
+PF00293,NUDIX,GO:hydrolase activity ; GO:0016787,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_146|970_aa
+PF00298,Ribosomal_L11,GO:structural constituent of ribosome ; GO:0003735,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_104|158_aa
+PF00298,Ribosomal_L11,GO:translation ; GO:0006412,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_104|158_aa
+PF00298,Ribosomal_L11,GO:ribosome ; GO:0005840,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_104|158_aa
+PF00324,AA_permease,GO:transport ; GO:0006810,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_48|3286_aa
+PF00324,AA_permease,GO:transmembrane transport ; GO:0055085,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_48|3286_aa
+PF00324,AA_permease,GO:membrane ; GO:0016020,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_48|3286_aa
+PF00347,Ribosomal_L6,GO:structural constituent of ribosome ; GO:0003735,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_182|191_aa
+PF00347,Ribosomal_L6,GO:rRNA binding ; GO:0019843,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_182|191_aa
+PF00347,Ribosomal_L6,GO:translation ; GO:0006412,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_182|191_aa
+PF00347,Ribosomal_L6,GO:ribosome ; GO:0005840,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_182|191_aa
+PF00370,FGGY_N,"GO:phosphotransferase activity, alcohol group as acceptor ; GO:0016773",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_64|542_aa
+PF00370,FGGY_N,GO:carbohydrate metabolic process ; GO:0005975,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_64|542_aa
+PF00389,2-Hacid_dh,"GO:oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor ; GO:0016616",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_46|350_aa
+PF00389,2-Hacid_dh,GO:NAD binding ; GO:0051287,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_46|350_aa
+PF00389,2-Hacid_dh,GO:metabolic process ; GO:0008152,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_46|350_aa
+PF00389,2-Hacid_dh,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_46|350_aa
+PF00400,WD40,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_13|465_aa
+PF00443,UCH,GO:thiol-dependent ubiquitinyl hydrolase activity ; GO:0036459,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_103|792_aa
+PF00443,UCH,GO:protein deubiquitination ; GO:0016579,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_103|792_aa
+PF00454,PI3_PI4_kinase,GO:kinase activity ; GO:0016301,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_50|1066_aa
+PF00479,G6PD_N,GO:glucose-6-phosphate dehydrogenase activity ; GO:0004345,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_70|505_aa
+PF00479,G6PD_N,GO:NADP binding ; GO:0050661,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_70|505_aa
+PF00479,G6PD_N,GO:glucose metabolic process ; GO:0006006,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_70|505_aa
+PF00479,G6PD_N,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_70|505_aa
+PF00484,Pro_CA,GO:carbonate dehydratase activity ; GO:0004089,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_204|221_aa
+PF00484,Pro_CA,GO:zinc ion binding ; GO:0008270,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_204|221_aa
+PF00485,PRK,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_238|469_aa
+PF00485,PRK,GO:kinase activity ; GO:0016301,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_238|469_aa
+PF00485,PRK,GO:metabolic process ; GO:0008152,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_238|469_aa
+PF00498,FHA,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_148|522_aa
+PF00514,Arm,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_101|542_aa
+PF00515,TPR_1,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_144|617_aa
+PF00521,DNA_topoisoIV,GO:DNA binding ; GO:0003677,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_168|1428_aa
+PF00521,DNA_topoisoIV,GO:DNA topoisomerase type II (ATP-hydrolyzing) activity ; GO:0003918,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_168|1428_aa
+PF00521,DNA_topoisoIV,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_168|1428_aa
+PF00521,DNA_topoisoIV,GO:DNA topological change ; GO:0006265,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_168|1428_aa
+PF00572,Ribosomal_L13,GO:structural constituent of ribosome ; GO:0003735,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_181|1042_aa
+PF00572,Ribosomal_L13,GO:translation ; GO:0006412,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_181|1042_aa
+PF00572,Ribosomal_L13,GO:ribosome ; GO:0005840,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_181|1042_aa
+PF00595,PDZ,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_143|997_aa
+PF00646,F-box,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_19|763_aa
+PF00660,SRP1_TIP1,GO:response to stress ; GO:0006950,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_287|120_aa
+PF00665,rve,GO:DNA integration ; GO:0015074,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_38|1674_aa
+PF00682,HMGL-like,GO:catalytic activity ; GO:0003824,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_156|1725_aa
+PF00684,DnaJ_CXXCXGXG,GO:heat shock protein binding ; GO:0031072,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_177|1073_aa
+PF00684,DnaJ_CXXCXGXG,GO:unfolded protein binding ; GO:0051082,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_177|1073_aa
+PF00709,Adenylsucc_synt,GO:adenylosuccinate synthase activity ; GO:0004019,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_82|433_aa
+PF00709,Adenylsucc_synt,GO:GTP binding ; GO:0005525,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_82|433_aa
+PF00709,Adenylsucc_synt,GO:purine nucleotide biosynthetic process ; GO:0006164,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_82|433_aa
+PF00752,XPG_N,GO:nuclease activity ; GO:0004518,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_171|830_aa
+PF00752,XPG_N,GO:DNA repair ; GO:0006281,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_171|830_aa
+PF00782,DSPc,GO:protein tyrosine/serine/threonine phosphatase activity ; GO:0008138,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_138|1667_aa
+PF00782,DSPc,GO:dephosphorylation ; GO:0016311,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_138|1667_aa
+PF00790,VHS,GO:intracellular protein transport ; GO:0006886,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_234|622_aa
+PF00800,PDT,GO:prephenate dehydratase activity ; GO:0004664,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_14|368_aa
+PF00800,PDT,GO:L-phenylalanine biosynthetic process ; GO:0009094,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_14|368_aa
+PF00809,Pterin_bind,GO:pteridine-containing compound metabolic process ; GO:0042558,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_58|805_aa
+PF00909,Ammonium_transp,GO:ammonium transmembrane transporter activity ; GO:0008519,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_131|468_aa
+PF00909,Ammonium_transp,GO:ammonium transport ; GO:0015696,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_131|468_aa
+PF00909,Ammonium_transp,GO:membrane ; GO:0016020,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_131|468_aa
+PF00939,Na_sulph_symp,GO:transporter activity ; GO:0005215,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_239|894_aa
+PF00939,Na_sulph_symp,GO:sodium ion transport ; GO:0006814,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_239|894_aa
+PF00939,Na_sulph_symp,GO:transmembrane transport ; GO:0055085,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_239|894_aa
+PF00939,Na_sulph_symp,GO:membrane ; GO:0016020,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_239|894_aa
+PF00955,HCO3_cotransp,GO:anion transport ; GO:0006820,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_45|147_aa
+PF00955,HCO3_cotransp,GO:integral component of membrane ; GO:0016021,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_45|147_aa
+PF00956,NAP,GO:nucleosome assembly ; GO:0006334,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_67|297_aa
+PF00956,NAP,GO:nucleus ; GO:0005634,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_67|297_aa
+PF00962,A_deaminase,GO:deaminase activity ; GO:0019239,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_132|347_aa
+PF01016,Ribosomal_L27,GO:structural constituent of ribosome ; GO:0003735,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_228|371_aa
+PF01016,Ribosomal_L27,GO:translation ; GO:0006412,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_228|371_aa
+PF01016,Ribosomal_L27,GO:intracellular ; GO:0005622,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_228|371_aa
+PF01016,Ribosomal_L27,GO:ribosome ; GO:0005840,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_228|371_aa
+PF01021,TYA,GO:RNA binding ; GO:0003723,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_38|1674_aa
+PF01021,TYA,GO:cytoplasm ; GO:0005737,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_38|1674_aa
+PF01040,UbiA,"GO:transferase activity, transferring alkyl or aryl (other than methyl) groups ; GO:0016765",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_262|372_aa
+PF01040,UbiA,GO:integral component of membrane ; GO:0016021,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_262|372_aa
+PF01061,ABC2_membrane,GO:membrane ; GO:0016020,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_282|1184_aa
+PF01090,Ribosomal_S19e,GO:structural constituent of ribosome ; GO:0003735,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_26|296_aa
+PF01090,Ribosomal_S19e,GO:translation ; GO:0006412,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_26|296_aa
+PF01090,Ribosomal_S19e,GO:ribosome ; GO:0005840,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_26|296_aa
+PF01119,DNA_mis_repair,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_173|1325_aa
+PF01119,DNA_mis_repair,GO:mismatched DNA binding ; GO:0030983,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_173|1325_aa
+PF01119,DNA_mis_repair,GO:mismatch repair ; GO:0006298,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_173|1325_aa
+PF01174,SNO,GO:glutaminase activity ; GO:0004359,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_3|222_aa
+PF01174,SNO,GO:vitamin B6 biosynthetic process ; GO:0042819,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_3|222_aa
+PF01174,SNO,GO:pyridoxal phosphate biosynthetic process ; GO:0042823,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_3|222_aa
+PF01182,Glucosamine_iso,GO:carbohydrate metabolic process ; GO:0005975,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_256|321_aa
+PF01184,Grp1_Fun34_YaaH,GO:integral component of membrane ; GO:0016021,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_233|596_aa
+PF01189,Methyltr_RsmB-F,GO:methyltransferase activity ; GO:0008168,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_188|618_aa
+PF01193,RNA_pol_L,GO:DNA-directed 5'-3' RNA polymerase activity ; GO:0003899,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_150|142_aa
+PF01193,RNA_pol_L,"GO:transcription, DNA-templated ; GO:0006351",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_150|142_aa
+PF01207,Dus,GO:tRNA dihydrouridine synthase activity ; GO:0017150,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_241|384_aa
+PF01207,Dus,GO:flavin adenine dinucleotide binding ; GO:0050660,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_241|384_aa
+PF01207,Dus,GO:tRNA processing ; GO:0008033,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_241|384_aa
+PF01207,Dus,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_241|384_aa
+PF01213,CAP_N,GO:actin binding ; GO:0003779,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_134|526_aa
+PF01213,CAP_N,GO:cytoskeleton organization ; GO:0007010,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_134|526_aa
+PF01222,ERG4_ERG24,GO:membrane ; GO:0016020,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_42|438_aa
+PF01232,Mannitol_dh,GO:oxidoreductase activity ; GO:0016491,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_285|502_aa
+PF01232,Mannitol_dh,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_285|502_aa
+PF01251,Ribosomal_S7e,GO:structural constituent of ribosome ; GO:0003735,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_163|788_aa
+PF01251,Ribosomal_S7e,GO:translation ; GO:0006412,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_163|788_aa
+PF01251,Ribosomal_S7e,GO:intracellular ; GO:0005622,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_163|788_aa
+PF01251,Ribosomal_S7e,GO:ribosome ; GO:0005840,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_163|788_aa
+PF01263,Aldose_epim,GO:isomerase activity ; GO:0016853,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_283|342_aa
+PF01263,Aldose_epim,GO:carbohydrate metabolic process ; GO:0005975,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_283|342_aa
+PF01274,Malate_synthase,GO:malate synthase activity ; GO:0004474,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_147|554_aa
+PF01274,Malate_synthase,GO:glyoxylate cycle ; GO:0006097,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_147|554_aa
+PF01288,HPPK,GO:2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity ; GO:0003848,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_58|805_aa
+PF01288,HPPK,GO:folic acid-containing compound biosynthetic process ; GO:0009396,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_58|805_aa
+PF01336,tRNA_anti-codon,GO:nucleic acid binding ; GO:0003676,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_18|273_aa
+PF01363,FYVE,GO:metal ion binding ; GO:0046872,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_234|622_aa
+PF01411,tRNA-synt_2c,GO:nucleotide binding ; GO:0000166,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_201|456_aa
+PF01411,tRNA-synt_2c,GO:alanine-tRNA ligase activity ; GO:0004813,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_201|456_aa
+PF01411,tRNA-synt_2c,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_201|456_aa
+PF01411,tRNA-synt_2c,GO:alanyl-tRNA aminoacylation ; GO:0006419,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_201|456_aa
+PF01412,ArfGap,GO:GTPase activator activity ; GO:0005096,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_94|300_aa
+PF01422,zf-NF-X1,"GO:transcription factor activity, sequence-specific DNA binding ; GO:0003700",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_214|1628_aa
+PF01422,zf-NF-X1,GO:zinc ion binding ; GO:0008270,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_214|1628_aa
+PF01422,zf-NF-X1,"GO:regulation of transcription, DNA-templated ; GO:0006355",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_214|1628_aa
+PF01422,zf-NF-X1,GO:nucleus ; GO:0005634,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_214|1628_aa
+PF01424,R3H,GO:nucleic acid binding ; GO:0003676,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_79|767_aa
+PF01428,zf-AN1,GO:zinc ion binding ; GO:0008270,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_125|274_aa
+PF01433,Peptidase_M1,GO:metallopeptidase activity ; GO:0008237,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_197|825_aa
+PF01433,Peptidase_M1,GO:zinc ion binding ; GO:0008270,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_197|825_aa
+PF01459,Porin_3,GO:transmembrane transport ; GO:0055085,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_190|599_aa
+PF01459,Porin_3,GO:mitochondrial outer membrane ; GO:0005741,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_190|599_aa
+PF01479,S4,GO:RNA binding ; GO:0003723,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_135|486_aa
+PF01483,P_proprotein,GO:serine-type endopeptidase activity ; GO:0004252,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_72|1210_aa
+PF01483,P_proprotein,GO:proteolysis ; GO:0006508,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_72|1210_aa
+PF01509,TruB_N,GO:RNA processing ; GO:0006396,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_33|403_aa
+PF01557,FAA_hydrolase,GO:catalytic activity ; GO:0003824,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_116|836_aa
+PF01557,FAA_hydrolase,GO:metabolic process ; GO:0008152,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_116|836_aa
+PF01585,G-patch,GO:nucleic acid binding ; GO:0003676,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_79|767_aa
+PF01602,Adaptin_N,GO:intracellular protein transport ; GO:0006886,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_37|1242_aa
+PF01602,Adaptin_N,GO:vesicle-mediated transport ; GO:0016192,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_37|1242_aa
+PF01602,Adaptin_N,GO:membrane coat ; GO:0030117,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_37|1242_aa
+PF01608,I_LWEQ,GO:actin binding ; GO:0003779,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_68|968_aa
+PF01644,Chitin_synth_1,GO:chitin synthase activity ; GO:0004100,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_100|1621_aa
+PF01644,Chitin_synth_1,GO:chitin biosynthetic process ; GO:0006031,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_100|1621_aa
+PF01699,Na_Ca_ex,GO:transmembrane transport ; GO:0055085,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_12|1121_aa
+PF01699,Na_Ca_ex,GO:integral component of membrane ; GO:0016021,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_12|1121_aa
+PF01735,PLA2_B,GO:phospholipase activity ; GO:0004620,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_221|1599_aa
+PF01735,PLA2_B,GO:phospholipid catabolic process ; GO:0009395,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_221|1599_aa
+PF01749,IBB,GO:protein transporter activity ; GO:0008565,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_101|542_aa
+PF01749,IBB,GO:protein import into nucleus ; GO:0006606,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_101|542_aa
+PF01749,IBB,GO:nucleus ; GO:0005634,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_101|542_aa
+PF01749,IBB,GO:cytoplasm ; GO:0005737,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_101|542_aa
+PF01793,Glyco_transf_15,GO:mannosyltransferase activity ; GO:0000030,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_211|467_aa
+PF01793,Glyco_transf_15,GO:protein glycosylation ; GO:0006486,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_211|467_aa
+PF01793,Glyco_transf_15,GO:membrane ; GO:0016020,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_211|467_aa
+PF01909,NTP_transf_2,GO:nucleotidyltransferase activity ; GO:0016779,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_27|642_aa
+PF01920,Prefoldin_2,GO:unfolded protein binding ; GO:0051082,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_127|129_aa
+PF01920,Prefoldin_2,GO:protein folding ; GO:0006457,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_127|129_aa
+PF01920,Prefoldin_2,GO:prefoldin complex ; GO:0016272,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_127|129_aa
+PF01926,MMR_HSR1,GO:GTP binding ; GO:0005525,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_165|220_aa
+PF02136,NTF2,GO:transport ; GO:0006810,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_271|496_aa
+PF02136,NTF2,GO:intracellular ; GO:0005622,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_271|496_aa
+PF02152,FolB,GO:dihydroneopterin aldolase activity ; GO:0004150,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_58|805_aa
+PF02152,FolB,GO:folic acid-containing compound metabolic process ; GO:0006760,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_58|805_aa
+PF02383,Syja_N,GO:phosphoric ester hydrolase activity ; GO:0042578,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_9|879_aa
+PF02450,LCAT,GO:O-acyltransferase activity ; GO:0008374,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_236|1104_aa
+PF02450,LCAT,GO:lipid metabolic process ; GO:0006629,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_236|1104_aa
+PF02666,PS_Dcarbxylase,GO:phosphatidylserine decarboxylase activity ; GO:0004609,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_115|500_aa
+PF02666,PS_Dcarbxylase,GO:phospholipid biosynthetic process ; GO:0008654,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_115|500_aa
+PF02781,G6PD_C,GO:glucose-6-phosphate dehydrogenase activity ; GO:0004345,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_70|505_aa
+PF02781,G6PD_C,GO:NADP binding ; GO:0050661,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_70|505_aa
+PF02781,G6PD_C,GO:glucose metabolic process ; GO:0006006,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_70|505_aa
+PF02781,G6PD_C,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_70|505_aa
+PF02782,FGGY_C,"GO:phosphotransferase activity, alcohol group as acceptor ; GO:0016773",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_64|542_aa
+PF02782,FGGY_C,GO:carbohydrate metabolic process ; GO:0005975,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_64|542_aa
+PF02786,CPSase_L_D2,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_242|2233_aa
+PF02798,GST_N,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_76|353_aa
+PF02817,E3_binding,"GO:transferase activity, transferring acyl groups ; GO:0016746",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_180|1311_aa
+PF02817,E3_binding,GO:metabolic process ; GO:0008152,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_180|1311_aa
+PF02826,2-Hacid_dh_C,GO:NAD binding ; GO:0051287,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_46|350_aa
+PF02826,2-Hacid_dh_C,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_46|350_aa
+PF02969,TAF,"GO:DNA-templated transcription, initiation ; GO:0006352",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_210|103_aa
+PF03051,Peptidase_C1_2,GO:cysteine-type endopeptidase activity ; GO:0004197,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_72|1210_aa
+PF03051,Peptidase_C1_2,GO:proteolysis ; GO:0006508,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_72|1210_aa
+PF03104,DNA_pol_B_exo1,GO:3'-5' exonuclease activity ; GO:0008408,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_53|2221_aa
+PF03144,GTP_EFTU_D2,GO:GTP binding ; GO:0005525,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_120|1110_aa
+PF03366,YEATS,"GO:regulation of transcription, DNA-templated ; GO:0006355",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_155|226_aa
+PF03381,CDC50,GO:membrane ; GO:0016020,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_10|414_aa
+PF03398,Ist1,GO:protein transport ; GO:0015031,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_51|637_aa
+PF03435,Sacchrp_dh_NADP,GO:oxidoreductase activity ; GO:0016491,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_270|446_aa
+PF03435,Sacchrp_dh_NADP,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_270|446_aa
+PF03547,Mem_trans,GO:transmembrane transport ; GO:0055085,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_163|788_aa
+PF03547,Mem_trans,GO:integral component of membrane ; GO:0016021,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_163|788_aa
+PF03600,CitMHS,GO:transmembrane transport ; GO:0055085,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_239|894_aa
+PF03600,CitMHS,GO:integral component of membrane ; GO:0016021,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_239|894_aa
+PF03639,Glyco_hydro_81,"GO:glucan endo-1,3-beta-glucanase activity, C-3 substituted reducing group ; GO:0052861",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_281|1940_aa
+PF03901,Glyco_transf_22,"GO:transferase activity, transferring glycosyl groups ; GO:0016757",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_83|193_aa
+PF04045,P34-Arc,GO:regulation of actin filament polymerization ; GO:0030833,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_257|342_aa
+PF04045,P34-Arc,GO:Arp2/3 complex-mediated actin nucleation ; GO:0034314,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_257|342_aa
+PF04045,P34-Arc,GO:Arp2/3 protein complex ; GO:0005885,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_257|342_aa
+PF04045,P34-Arc,GO:actin cytoskeleton ; GO:0015629,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_257|342_aa
+PF04082,Fungal_trans,GO:DNA binding ; GO:0003677,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_279|607_aa
+PF04082,Fungal_trans,GO:zinc ion binding ; GO:0008270,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_279|607_aa
+PF04082,Fungal_trans,"GO:transcription, DNA-templated ; GO:0006351",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_279|607_aa
+PF04082,Fungal_trans,GO:nucleus ; GO:0005634,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_279|607_aa
+PF04130,Spc97_Spc98,GO:gamma-tubulin binding ; GO:0043015,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_140|846_aa
+PF04130,Spc97_Spc98,GO:microtubule cytoskeleton organization ; GO:0000226,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_140|846_aa
+PF04130,Spc97_Spc98,GO:microtubule nucleation ; GO:0007020,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_140|846_aa
+PF04130,Spc97_Spc98,GO:spindle pole ; GO:0000922,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_140|846_aa
+PF04130,Spc97_Spc98,GO:microtubule organizing center ; GO:0005815,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_140|846_aa
+PF04189,Gcd10p,GO:tRNA methylation ; GO:0030488,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_187|478_aa
+PF04189,Gcd10p,GO:tRNA (m1A) methyltransferase complex ; GO:0031515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_187|478_aa
+PF04281,Tom22,GO:intracellular protein transport ; GO:0006886,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_138|1667_aa
+PF04281,Tom22,GO:mitochondrial outer membrane ; GO:0005741,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_138|1667_aa
+PF04408,HA2,GO:helicase activity ; GO:0004386,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_237|876_aa
+PF04410,Gar1,GO:pseudouridine synthesis ; GO:0001522,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_142|492_aa
+PF04410,Gar1,GO:ribosome biogenesis ; GO:0042254,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_142|492_aa
+PF04670,Gtr1_RagA,GO:GTP binding ; GO:0005525,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_165|220_aa
+PF04715,Anth_synt_I_N,GO:biosynthetic process ; GO:0009058,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_255|1163_aa
+PF04722,Ssu72,GO:phosphoprotein phosphatase activity ; GO:0004721,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_80|691_aa
+PF04722,Ssu72,GO:mRNA processing ; GO:0006397,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_80|691_aa
+PF04722,Ssu72,GO:nucleus ; GO:0005634,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_80|691_aa
+PF04795,PAPA-1,GO:Ino80 complex ; GO:0031011,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_87|455_aa
+PF04810,zf-Sec23_Sec24,GO:zinc ion binding ; GO:0008270,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_194|857_aa
+PF04810,zf-Sec23_Sec24,GO:intracellular protein transport ; GO:0006886,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_194|857_aa
+PF04810,zf-Sec23_Sec24,GO:ER to Golgi vesicle-mediated transport ; GO:0006888,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_194|857_aa
+PF04810,zf-Sec23_Sec24,GO:COPII vesicle coat ; GO:0030127,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_194|857_aa
+PF04811,Sec23_trunk,GO:intracellular protein transport ; GO:0006886,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_194|857_aa
+PF04811,Sec23_trunk,GO:ER to Golgi vesicle-mediated transport ; GO:0006888,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_194|857_aa
+PF04811,Sec23_trunk,GO:COPII vesicle coat ; GO:0030127,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_194|857_aa
+PF04815,Sec23_helical,GO:intracellular protein transport ; GO:0006886,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_194|857_aa
+PF04815,Sec23_helical,GO:ER to Golgi vesicle-mediated transport ; GO:0006888,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_194|857_aa
+PF04815,Sec23_helical,GO:COPII vesicle coat ; GO:0030127,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_194|857_aa
+PF04851,ResIII,GO:DNA binding ; GO:0003677,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_259|629_aa
+PF04851,ResIII,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_259|629_aa
+PF04851,ResIII,GO:hydrolase activity ; GO:0016787,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_259|629_aa
+PF05026,DCP2,GO:RNA binding ; GO:0003723,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_146|970_aa
+PF05026,DCP2,GO:hydrolase activity ; GO:0016787,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_146|970_aa
+PF05026,DCP2,GO:manganese ion binding ; GO:0030145,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_146|970_aa
+PF05158,RNA_pol_Rpc34,GO:transcription from RNA polymerase III promoter ; GO:0006383,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_233|596_aa
+PF05158,RNA_pol_Rpc34,GO:DNA-directed RNA polymerase III complex ; GO:0005666,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_233|596_aa
+PF05175,MTS,GO:methyltransferase activity ; GO:0008168,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_186|314_aa
+PF05180,zf-DNL,GO:zinc ion binding ; GO:0008270,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_20|174_aa
+PF05433,Rick_17kDa_Anti,GO:outer membrane ; GO:0019867,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_91|199_aa
+PF05496,RuvB_N,GO:four-way junction helicase activity ; GO:0009378,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_35|677_aa
+PF05496,RuvB_N,GO:DNA repair ; GO:0006281,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_35|677_aa
+PF05496,RuvB_N,GO:DNA recombination ; GO:0006310,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_35|677_aa
+PF06367,Drf_FH3,GO:actin binding ; GO:0003779,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_48|3286_aa
+PF06367,Drf_FH3,GO:cellular component organization ; GO:0016043,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_48|3286_aa
+PF06371,Drf_GBD,GO:actin binding ; GO:0003779,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_48|3286_aa
+PF06371,Drf_GBD,GO:Rho GTPase binding ; GO:0017048,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_48|3286_aa
+PF06371,Drf_GBD,GO:actin cytoskeleton organization ; GO:0030036,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_48|3286_aa
+PF06422,PDR_CDR,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_282|1184_aa
+PF06422,PDR_CDR,"GO:ATPase activity, coupled to transmembrane movement of substances ; GO:0042626",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_282|1184_aa
+PF06422,PDR_CDR,GO:transport ; GO:0006810,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_282|1184_aa
+PF06422,PDR_CDR,GO:integral component of membrane ; GO:0016021,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_282|1184_aa
+PF06644,ATP11,GO:protein complex assembly ; GO:0006461,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_15|318_aa
+PF06644,ATP11,GO:mitochondrion ; GO:0005739,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_15|318_aa
+PF06723,MreB_Mbl,GO:cell morphogenesis ; GO:0000902,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_90|613_aa
+PF06870,RNA_pol_I_A49,GO:DNA binding ; GO:0003677,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_65|415_aa
+PF06870,RNA_pol_I_A49,GO:DNA-directed 5'-3' RNA polymerase activity ; GO:0003899,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_65|415_aa
+PF06870,RNA_pol_I_A49,"GO:transcription, DNA-templated ; GO:0006351",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_65|415_aa
+PF06870,RNA_pol_I_A49,GO:nucleus ; GO:0005634,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_65|415_aa
+PF06881,Elongin_A,"GO:regulation of transcription, DNA-templated ; GO:0006355",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_75|367_aa
+PF06881,Elongin_A,GO:nucleus ; GO:0005634,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_75|367_aa
+PF06881,Elongin_A,GO:integral component of membrane ; GO:0016021,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_75|367_aa
+PF06888,Put_Phosphatase,GO:phosphatase activity ; GO:0016791,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_223|241_aa
+PF06978,POP1,GO:ribonuclease P activity ; GO:0004526,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_81|875_aa
+PF06978,POP1,GO:tRNA 5'-leader removal ; GO:0001682,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_81|875_aa
+PF07544,Med9,GO:RNA polymerase II transcription cofactor activity ; GO:0001104,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_236|1104_aa
+PF07544,Med9,GO:regulation of transcription from RNA polymerase II promoter ; GO:0006357,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_236|1104_aa
+PF07544,Med9,GO:mediator complex ; GO:0016592,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_236|1104_aa
+PF07650,KH_2,GO:RNA binding ; GO:0003723,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_109|240_aa
+PF07651,ANTH,GO:phospholipid binding ; GO:0005543,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_68|968_aa
+PF07685,GATase_3,GO:catalytic activity ; GO:0003824,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_3|222_aa
+PF07685,GATase_3,GO:cobalamin biosynthetic process ; GO:0009236,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_3|222_aa
+PF07690,MFS_1,GO:transmembrane transport ; GO:0055085,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_141|673_aa
+PF07690,MFS_1,GO:integral component of membrane ; GO:0016021,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_141|673_aa
+PF07714,Pkinase_Tyr,GO:protein kinase activity ; GO:0004672,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_23|375_aa
+PF07714,Pkinase_Tyr,GO:protein phosphorylation ; GO:0006468,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_23|375_aa
+PF07722,Peptidase_C26,GO:hydrolase activity ; GO:0016787,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_255|1163_aa
+PF07722,Peptidase_C26,GO:glutamine metabolic process ; GO:0006541,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_255|1163_aa
+PF07728,AAA_5,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_84|587_aa
+PF07728,AAA_5,GO:ATPase activity ; GO:0016887,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_84|587_aa
+PF07904,Eaf7,"GO:regulation of transcription, DNA-templated ; GO:0006355",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_136|425_aa
+PF07904,Eaf7,GO:nucleus ; GO:0005634,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_136|425_aa
+PF07904,Eaf7,GO:H4/H2A histone acetyltransferase complex ; GO:0043189,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_136|425_aa
+PF07973,tRNA_SAD,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_201|456_aa
+PF07973,tRNA_SAD,"GO:ligase activity, forming aminoacyl-tRNA and related compounds ; GO:0016876",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_201|456_aa
+PF07973,tRNA_SAD,GO:tRNA aminoacylation ; GO:0043039,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_201|456_aa
+PF07992,Pyr_redox_2,GO:oxidoreductase activity ; GO:0016491,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_286|378_aa
+PF07992,Pyr_redox_2,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_286|378_aa
+PF08022,FAD_binding_8,GO:oxidoreductase activity ; GO:0016491,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_277|719_aa
+PF08022,FAD_binding_8,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_277|719_aa
+PF08030,NAD_binding_6,GO:oxidoreductase activity ; GO:0016491,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_277|719_aa
+PF08030,NAD_binding_6,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_277|719_aa
+PF08125,Mannitol_dh_C,GO:oxidoreductase activity ; GO:0016491,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_285|502_aa
+PF08125,Mannitol_dh_C,GO:coenzyme binding ; GO:0050662,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_285|502_aa
+PF08125,Mannitol_dh_C,GO:oxidation-reduction process ; GO:0055114,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_285|502_aa
+PF08170,POPLD,GO:ribonuclease P activity ; GO:0004526,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_81|875_aa
+PF08170,POPLD,GO:RNA processing ; GO:0006396,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_81|875_aa
+PF08228,RNase_P_pop3,GO:rRNA processing ; GO:0006364,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_41|195_aa
+PF08228,RNase_P_pop3,GO:tRNA processing ; GO:0008033,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_41|195_aa
+PF08326,ACC_central,GO:acetyl-CoA carboxylase activity ; GO:0003989,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_242|2233_aa
+PF08326,ACC_central,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_242|2233_aa
+PF08326,ACC_central,GO:fatty acid biosynthetic process ; GO:0006633,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_242|2233_aa
+PF08407,Chitin_synth_1N,GO:chitin synthase activity ; GO:0004100,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_100|1621_aa
+PF08477,Roc,GO:GTP binding ; GO:0005525,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_25|417_aa
+PF08477,Roc,GO:small GTPase mediated signal transduction ; GO:0007264,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_25|417_aa
+PF08490,DUF1744,GO:DNA-directed DNA polymerase activity ; GO:0003887,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_53|2221_aa
+PF08490,DUF1744,GO:zinc ion binding ; GO:0008270,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_53|2221_aa
+PF08490,DUF1744,GO:DNA replication ; GO:0006260,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_53|2221_aa
+PF08490,DUF1744,GO:nucleus ; GO:0005634,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_53|2221_aa
+PF08502,LeuA_dimer,GO:2-isopropylmalate synthase activity ; GO:0003852,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_156|1725_aa
+PF08502,LeuA_dimer,GO:leucine biosynthetic process ; GO:0009098,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_156|1725_aa
+PF08603,CAP_C,GO:actin binding ; GO:0003779,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_134|526_aa
+PF08603,CAP_C,GO:cytoskeleton organization ; GO:0007010,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_134|526_aa
+PF08613,Cyclin,GO:protein kinase binding ; GO:0019901,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_35|677_aa
+PF08613,Cyclin,GO:regulation of cyclin-dependent protein serine/threonine kinase activity ; GO:0000079,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_35|677_aa
+PF08676,MutL_C,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_173|1325_aa
+PF08676,MutL_C,GO:mismatch repair ; GO:0006298,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_173|1325_aa
+PF08692,Pet20,GO:mitochondrion ; GO:0005739,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_30|524_aa
+PF08752,COP-gamma_platf,GO:structural molecule activity ; GO:0005198,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_37|1242_aa
+PF08752,COP-gamma_platf,GO:intracellular protein transport ; GO:0006886,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_37|1242_aa
+PF08752,COP-gamma_platf,GO:vesicle-mediated transport ; GO:0016192,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_37|1242_aa
+PF08752,COP-gamma_platf,GO:COPI vesicle coat ; GO:0030126,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_37|1242_aa
+PF08996,zf-DNA_Pol,GO:nucleoside binding ; GO:0001882,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_158|1468_aa
+PF08996,zf-DNA_Pol,GO:DNA-directed DNA polymerase activity ; GO:0003887,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_158|1468_aa
+PF08996,zf-DNA_Pol,GO:DNA replication ; GO:0006260,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_158|1468_aa
+PF09127,Leuk-A4-hydro_C,GO:metallopeptidase activity ; GO:0008237,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_197|825_aa
+PF09127,Leuk-A4-hydro_C,GO:zinc ion binding ; GO:0008270,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_197|825_aa
+PF09197,Rap1-DNA-bind,GO:DNA binding ; GO:0003677,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_86|827_aa
+PF09202,Rio2_N,GO:protein serine/threonine kinase activity ; GO:0004674,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_92|425_aa
+PF09202,Rio2_N,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_92|425_aa
+PF09202,Rio2_N,GO:protein phosphorylation ; GO:0006468,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_92|425_aa
+PF09334,tRNA-synt_1g,GO:nucleotide binding ; GO:0000166,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_66|754_aa
+PF09334,tRNA-synt_1g,GO:aminoacyl-tRNA ligase activity ; GO:0004812,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_66|754_aa
+PF09334,tRNA-synt_1g,GO:ATP binding ; GO:0005524,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_66|754_aa
+PF09334,tRNA-synt_1g,GO:tRNA aminoacylation for protein translation ; GO:0006418,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_66|754_aa
+PF09768,Peptidase_M76,GO:metalloendopeptidase activity ; GO:0004222,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_245|211_aa
+PF10288,CTU2,GO:tRNA binding ; GO:0000049,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_145|453_aa
+PF10288,CTU2,GO:tRNA wobble uridine modification ; GO:0002098,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_145|453_aa
+PF10288,CTU2,GO:tRNA thio-modification ; GO:0034227,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_145|453_aa
+PF10392,COG5,GO:intra-Golgi vesicle-mediated transport ; GO:0006891,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_192|403_aa
+PF10392,COG5,GO:Golgi transport complex ; GO:0017119,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_192|403_aa
+PF10447,EXOSC1,GO:RNA binding ; GO:0003723,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_73|2557_aa
+PF10447,EXOSC1,GO:exosome (RNase complex) ; GO:0000178,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_73|2557_aa
+PF11051,Mannosyl_trans3,"GO:transferase activity, transferring glycosyl groups ; GO:0016757",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_276|580_aa
+PF11051,Mannosyl_trans3,GO:protein glycosylation ; GO:0006486,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_276|580_aa
+PF11522,Pik1,"GO:phosphotransferase activity, alcohol group as acceptor ; GO:0016773",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_50|1066_aa
+PF11705,RNA_pol_3_Rpc31,GO:DNA-directed 5'-3' RNA polymerase activity ; GO:0003899,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_129|454_aa
+PF11705,RNA_pol_3_Rpc31,GO:transcription from RNA polymerase III promoter ; GO:0006383,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_129|454_aa
+PF12326,EOS1,GO:cellular response to oxidative stress ; GO:0034599,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_174|366_aa
+PF12326,EOS1,GO:endoplasmic reticulum membrane ; GO:0005789,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_174|366_aa
+PF12761,End3,GO:endocytosis ; GO:0006897,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_172|349_aa
+PF12761,End3,GO:actin filament organization ; GO:0007015,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_172|349_aa
+PF12763,EF-hand_4,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_172|349_aa
+PF12859,ANAPC1,GO:anaphase-promoting complex ; GO:0005680,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_114|1748_aa
+PF12937,F-box-like,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_19|763_aa
+PF13181,TPR_8,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_17|904_aa
+PF13409,GST_N_2,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_76|353_aa
+PF13417,GST_N_3,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_76|353_aa
+PF13499,EF-hand_7,GO:calcium ion binding ; GO:0005509,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_173|1325_aa
+PF13520,AA_permease_2,GO:amino acid transmembrane transporter activity ; GO:0015171,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_48|3286_aa
+PF13520,AA_permease_2,GO:amino acid transmembrane transport ; GO:0003333,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_48|3286_aa
+PF13520,AA_permease_2,GO:membrane ; GO:0016020,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_48|3286_aa
+PF13656,RNA_pol_L_2,GO:protein dimerization activity ; GO:0046983,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_150|142_aa
+PF13656,RNA_pol_L_2,"GO:transcription, DNA-templated ; GO:0006351",/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_150|142_aa
+PF13718,GNAT_acetyltr_2,GO:N-acetyltransferase activity ; GO:0008080,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_138|1667_aa
+PF14560,Ubiquitin_2,GO:protein binding ; GO:0005515,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_129|454_aa
+PF14630,ORC5_C,GO:DNA replication ; GO:0006260,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_54|479_aa
+PF14630,ORC5_C,GO:origin recognition complex ; GO:0000808,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_54|479_aa
+PF14630,ORC5_C,GO:nucleus ; GO:0005634,/tmp/05_25_17-02:55:32.fasta|GENSCAN_predicted_peptide_54|479_aa
