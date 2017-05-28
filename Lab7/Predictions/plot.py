@@ -67,7 +67,7 @@ print (q5)
 matplotlib.pyplot.scatter(datapoint_x,datapoint_y)
 
 matplotlib.pyplot.ylabel('Average number of TM elements')
-matplotlib.pyplot.xlabel('Average number of TM proteins')
+matplotlib.pyplot.xlabel('Number of TM proteins')
 
 pylab.plot(datapoint_x,datapoint_y,'o')
 z = np.polyfit(datapoint_x, datapoint_y, 1)
